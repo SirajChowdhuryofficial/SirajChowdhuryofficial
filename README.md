@@ -1,4 +1,4 @@
-### Hi, this is Farid Rony 
+### Hi, this is Siraj Chowdhury
 
 ![](https://faridrony55.github.io/emailtemplate-img/linkedin-github-img.png)
 
@@ -8,16 +8,18 @@
 
 
 
-I have more than 8 years of experience with a vast majority dedicated to operational and technical. I constantly challenge myself to solve problems by Coding, Development and I love making exclusive Shopify Store. 
+Hello, I am Siraj Chowdhury. Quickly Fast, Responsible, Certified and Professional Web Developer, WordPress & Shopify Instructor & eCommerce/Woocommerce/Elementor/Shopify expert, and email marketing expert.
 
-Created 150+ Shopify Stores, Highly Recommended Shopify Expert. I provide innovative, high-quality creative solutions and pursue every project with passion, intelligence, and personal commitment.
- 
-I have a huge range of experience all the way from start-ups to large Fortune 500 businesses. When it comes to Shopify I can assist in all facets of a company. I have direct experience app and theme development, search engine optimization, conversion optimization, and even business operations like optimization your inventory tracking and shipping methods across multiple sales channels. I'm ready to help you take your business to the next level! I cater to diverse requirements ranging from simple shopping carts to complex social networking websites. I Design and Code Websites myself, let me know if you need some mock-ups!
- 
-Above all, I offer great communication. I feel that this is one of the most important facets of getting a job completed effectively, so you can count on me giving you great customer service during and after the job is done,
+Working as a Professional Font-End Web developer since 2022 and completed over 30+ web projects at various marketplaces & working as a Website Designer since 2019 and completed 250+ individual projects at various marketplaces. As an experienced WordPress & Shopify Developer, I have worked with many individual Business owners and helped them to succeed in their businesses by providing them Premium & professional WordPress Website Design and Shopify Store Design services.
+
+⭐ As a Certified WordPress and Elementor Expert, I can help you to build any type of WordPress Website with Elementor & Theme. The Website design will be fully responsive for all devices and SEO-friendly with professional functionality.
+
+⭐ As a Certified Shopify and E-commerce expert, I can help you build any type of Shopify Website with page builders like pagefly, Gempages,pagetify, and many popular builders & Themes customization. The Website design will be fully responsive for all devices and SEO-friendly with professional functionality.
+
+⭐ And I can help you to convert Figma And PSD to WordPress with Elementor and the design will be 100% pixel-perfect and fully responsive across all devices with professional functionality.
 
 ### Skills:  
-SHOPIFY / Landing Page / WordPress / Big Commerce / FIGMA / REACT JS 
+SHOPIFY / Landing Page / WordPress / Big E-Commerce / FIGMA / HTML / CSS / PHP /Dropshipping 
 
 ## My areas of expertise include: 
 ### Shopify
@@ -36,7 +38,7 @@ SHOPIFY / Landing Page / WordPress / Big Commerce / FIGMA / REACT JS
  + Page Builder ( Pagefly, Shogun, Gempages )
  
 ### Wordpress
- + Ecommerce Website with Woocommerce
+ + E-commerce Website with Woocommerce
  + Elementor/Divi Builder/WP Page Builder/Thrive Architect
  + Premium Themes Customization (Themeforest and other market places...)
  + Jpg to psd to html/css to WordPress
