@@ -4,7 +4,7 @@
 
  
 
-[<img src='https://www.iconsdb.com/icons/preview/white/instagram-xxl.png' alt='github' height='40' >](https://github.com/faridrony55)  [<img src='https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/faridrony/)  [<img src='https://www.iconsdb.com/icons/preview/white/facebook-3-xxl.png' alt='facebook' height='40'>](https://www.facebook.com/faridulrony)  [<img src='https://www.iconsdb.com/icons/preview/white/youtube-xxl.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/CodexCode)  
+[<img src='https://www.iconsdb.com/icons/preview/white/instagram-xxl.png' alt='github' height='40' >](https://www.instagram.com/sirajchowdhury01/)  [<img src='https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sirajchowdhury01/)  [<img src='https://www.iconsdb.com/icons/preview/white/facebook-3-xxl.png' alt='facebook' height='40'>](https://www.facebook.com/sirajchowdhury01)  [<img src='https://www.iconsdb.com/icons/preview/white/youtube-xxl.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/siraj_chowdhury)  
 
 
 
@@ -27,12 +27,12 @@ SHOPIFY / Landing Page / WordPress / Big E-Commerce / FIGMA / HTML / CSS / PHP /
 
 ## My areas of expertise include: 
 ### WordPress
- ✅ E-commerce Website with Woocommerce
- + Elementor/Divi Builder/WP Page Builder/Thrive Architect
- + Premium Themes Customization (Themeforest and other marketplaces...)
- + Jpg to psd to html/css to WordPress
- + Figma to WordPress or Elementor builder 
- + WordPress Builders:
+ 👉 E-commerce Website with Woocommerce
+ 👉Elementor/Divi Builder/WP Page Builder/Thrive Architect
+ 👉 Premium Themes Customization (Themeforest and other marketplaces...)
+ 👉 Jpg to psd to html/css to WordPress
+ 👉 Figma to WordPress or Elementor builder 
+ 🔥 WordPress Builders:
  > Divi
  > Elementor
  > Oxygen Builder
@@ -42,23 +42,23 @@ SHOPIFY / Landing Page / WordPress / Big E-Commerce / FIGMA / HTML / CSS / PHP /
 
 
 ### Shopify
- + Store Setup 
- + Migration
- + Theme Installation  
- + Theme Customization
- + Landing Page Design 
- + Custom Liquid Coding
- + Product Page Customization
- + Dropshipping
- + Figma to Shopify
- + Invisionapp to Shopify 
- + Sketch to Shopify
- + Page Builder ( Pagefly, Shogun, Gempages,Pagetify )
+ 👉 Store Setup 
+ 👉 Migration
+ 👉 Theme Installation  
+ 👉 Theme Customization
+ 👉 Landing Page Design 
+ 👉 Custom Liquid Coding
+ 👉 Product Page Customization
+ 👉 Dropshipping
+ 👉 Figma to Shopify
+ 👉 Invisionapp to Shopify 
+ 👉 Sketch to Shopify
+ 🔥Page Builder ( Pagefly, Shogun, Gempages,Pagetify )
  
 ##Extra Services- 
-+ Domain Hosting Buy & Setup
-+ International Payment Services
-+ Buy Theme, Plugin, or apps Subscription.
+✅ Domain Hosting Buy & Setup
+✅ International Payment Services
+✅ Buy Theme, Plugin, or apps Subscription.
 
 Frameworks & CMS: Shopify, WordPress, Squarespace, Bigcommerce, Weebly, Webflow and Wix. 
 
