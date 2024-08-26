@@ -28,11 +28,17 @@ SHOPIFY / Landing Page / WordPress / Big E-Commerce / FIGMA / HTML / CSS / PHP /
 ## My areas of expertise include: 
 ### WordPress
  👉 E-commerce Website with Woocommerce
+ 
  👉Elementor/Divi Builder/WP Page Builder/Thrive Architect
+ 
  👉 Premium Themes Customization (Themeforest and other marketplaces...)
+ 
  👉 Jpg to psd to html/css to WordPress
+ 
  👉 Figma to WordPress or Elementor builder 
+ 
  🔥 WordPress Builders:
+ 
  > Divi
  > Elementor
  > Oxygen Builder
@@ -43,22 +49,38 @@ SHOPIFY / Landing Page / WordPress / Big E-Commerce / FIGMA / HTML / CSS / PHP /
 
 ### Shopify
  👉 Store Setup 
+ 
  👉 Migration
+ 
  👉 Theme Installation  
+ 
  👉 Theme Customization
+ 
  👉 Landing Page Design 
+ 
  👉 Custom Liquid Coding
+ 
  👉 Product Page Customization
+ 
  👉 Dropshipping
+ 
  👉 Figma to Shopify
+ 
  👉 Invisionapp to Shopify 
+ 
  👉 Sketch to Shopify
+ 
  🔥Page Builder ( Pagefly, Shogun, Gempages,Pagetify )
  
-##Extra Services- 
+ 
+### Extra Services- 
+
 ✅ Domain Hosting Buy & Setup
+
 ✅ International Payment Services
+
 ✅ Buy Theme, Plugin, or apps Subscription.
+
 
 Frameworks & CMS: Shopify, WordPress, Squarespace, Bigcommerce, Weebly, Webflow and Wix. 
 
