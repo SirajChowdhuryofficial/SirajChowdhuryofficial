@@ -1,6 +1,6 @@
 ### Hi, this is Siraj Chowdhury
 
-![](https://SirajChowdhuryofficial.github.io/emailtemplate-img/[linkedin-github-img.png](https://scontent.fcgp2-1.fna.fbcdn.net/v/t39.30808-6/455858776_1480504085914319_3033557295766020270_n.png?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=2285d6&_nc_eui2=AeELAiH6QI72D_MXfY0LGQ0U0WiLDrGl-TbRaIsOsaX5NtDY-vARZz0goqjd34mOODXMMNAvebQLw65SXL6XvOga&_nc_ohc=hIqPB1X2Nj0Q7kNvgEiyBlO&_nc_ht=scontent.fcgp2-1.fna&oh=00_AYDCUC4ky3Cbrrv7ygQKjhc4VA0Tt8WLinNyxfzLPZvuKw&oe=66D221A6))
+![](https://scontent.fcgp2-1.fna.fbcdn.net/v/t39.30808-6/455858776_1480504085914319_3033557295766020270_n.png?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=2285d6&_nc_eui2=AeELAiH6QI72D_MXfY0LGQ0U0WiLDrGl-TbRaIsOsaX5NtDY-vARZz0goqjd34mOODXMMNAvebQLw65SXL6XvOga&_nc_ohc=hIqPB1X2Nj0Q7kNvgEiyBlO&_nc_ht=scontent.fcgp2-1.fna&oh=00_AYDCUC4ky3Cbrrv7ygQKjhc4VA0Tt8WLinNyxfzLPZvuKw&oe=66D221A6)
 
  
 
