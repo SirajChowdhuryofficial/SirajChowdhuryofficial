@@ -1,6 +1,6 @@
 ### Hi, this is Siraj Chowdhury
 
-![](https://faridrony55.github.io/emailtemplate-img/linkedin-github-img.png)
+![](https://SirajChowdhuryofficial.github.io/emailtemplate-img/[linkedin-github-img.png](https://scontent.fcgp2-1.fna.fbcdn.net/v/t39.30808-6/455858776_1480504085914319_3033557295766020270_n.png?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=2285d6&_nc_eui2=AeELAiH6QI72D_MXfY0LGQ0U0WiLDrGl-TbRaIsOsaX5NtDY-vARZz0goqjd34mOODXMMNAvebQLw65SXL6XvOga&_nc_ohc=hIqPB1X2Nj0Q7kNvgEiyBlO&_nc_ht=scontent.fcgp2-1.fna&oh=00_AYDCUC4ky3Cbrrv7ygQKjhc4VA0Tt8WLinNyxfzLPZvuKw&oe=66D221A6))
 
  
 
@@ -109,8 +109,6 @@ Here are some ideas to get you started:
 🔭 I’m currently working on your mind
 
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=faridrony55&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=faridrony55)  
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=faridrony55)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=SirajChowdhuryofficial)](https://github.com/ryo-ma/github-profile-trophy) -->
