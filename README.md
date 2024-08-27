@@ -1,7 +1,6 @@
 ### Hi, this is Siraj Chowdhury 
 
-![](https://media.licdn.com/dms/image/v2/D5616AQGTsYwW6te4Qw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724668427202?e=1730332800&v=beta&t=a6E2PPPefsWhmYxj4hUrDp2uiZNm5T0GSaB85s0eDws)
-
+![](https://media.licdn.com/dms/image/v2/D5616AQH0TJrxAaA27Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724673255947?e=1730332800&v=beta&t=sUQiiOPL6kcwMpzsbsmS9wofXjFLvhoQnqZtEZZpTGM)
  
 
 [<img src='https://www.iconsdb.com/icons/preview/yellow/instagram-xxl.png' alt='github' height='40' >](https://www.instagram.com/sirajchowdhury01/)  [<img src='https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sirajchowdhury01/)  [<img src='https://www.iconsdb.com/icons/preview/white/facebook-3-xxl.png' alt='facebook' height='40'>](https://www.facebook.com/sirajchowdhury01)  [<img src='https://www.iconsdb.com/icons/preview/white/youtube-xxl.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/siraj_chowdhury)  
